@@ -1,6 +1,6 @@
 {
   "name": "lil-pids-ps",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Run ps with all active lil-pids services",
   "main": "index.js",
   "bin": {
