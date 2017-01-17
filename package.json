@@ -1,0 +1,21 @@
+{
+  "name": "lil-pids-ps",
+  "version": "0.0.0",
+  "description": "Run ps with all active lil-pids services",
+  "main": "index.js",
+  "bin": {
+    "lil-pids-ps": "./index.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/lil-pids-ps.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/lil-pids-ps/issues"
+  },
+  "homepage": "https://github.com/mafintosh/lil-pids-ps"
+}
